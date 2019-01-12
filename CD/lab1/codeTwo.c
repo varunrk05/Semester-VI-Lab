@@ -1,5 +1,5 @@
 /*
-	Check for #include, #define, #if preprocessor directives adn remove them
+	Check for #include, #define, #if preprocessor directives and remove them
 */
 #include <stdio.h>
 #include <stdlib.h>

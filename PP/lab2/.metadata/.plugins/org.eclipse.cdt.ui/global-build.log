@@ -1,0 +1,1197 @@
+20:17:32 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:18:17 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:18:20 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:19:00 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:21:03 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:22:01 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:22:42 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:23:18 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:23:55 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:24:15 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:25:29 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:26:04 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:26:29 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:26:40 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:27:10 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:27:12 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:28:08 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:29:37 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:30:57 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+../codeOne.c: In function ‘main’:
+../codeOne.c:47:16: warning: passing argument 1 of ‘printf’ from incompatible pointer type [-Wincompatible-pointer-types]
+         printf(stdout,"length is %d",len);
+                ^
+In file included from ../codeOne.c:2:0:
+/usr/include/stdio.h:362:12: note: expected ‘const char * restrict’ but argument is of type ‘struct _IO_FILE *’
+ extern int printf (const char *__restrict __format, ...);
+            ^
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:32:06 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:34:28 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+../codeOne.c: In function ‘main’:
+../codeOne.c:15:3: warning: implicit declaration of function ‘gets’ [-Wimplicit-function-declaration]
+   gets(s);
+   ^
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+./codeOne.o: In function `main':
+/home/student/Desktop/C42/PP/lab1/one/Debug/../codeOne.c:15: warning: the `gets' function is dangerous and should not be used.
+Finished building target: one
+ 
+20:35:15 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:35:30 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:36:07 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:36:20 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:36:22 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:37:46 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:38:08 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:38:34 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:38:54 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:38:56 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:39:12 **** Incremental Build of configuration Debug for project one ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+Finished building: ../codeOne.c
+ 
+Building target: one
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one"  ./codeOne.o   -lmpi
+Finished building target: one
+ 
+20:42:41 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:42:41 **** Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c:4:20: fatal error: iostream: No such file or directory
+compilation terminated.
+subdir.mk:18: recipe for target 'codeTwo.o' failed
+make: *** [codeTwo.o] Error 1
+20:42:56 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:42:56 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c:4:22: warning: extra tokens at end of #include directive
+ #include <iostream.h>;
+                      ^
+../codeTwo.c:4:23: fatal error: iostream.h: No such file or directory
+compilation terminated.
+subdir.mk:18: recipe for target 'codeTwo.o' failed
+make: *** [codeTwo.o] Error 1
+20:43:15 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:43:15 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c:4:22: fatal error: iostream.h: No such file or directory
+compilation terminated.
+subdir.mk:18: recipe for target 'codeTwo.o' failed
+make: *** [codeTwo.o] Error 1
+20:43:20 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:43:21 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c: In function ‘main’:
+../codeTwo.c:7:13: warning: unused variable ‘status’ [-Wunused-variable]
+  MPI_Status status;
+             ^
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+20:47:45 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:47:45 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c: In function ‘main’:
+../codeTwo.c:14:3: warning: implicit declaration of function ‘gets’ [-Wimplicit-function-declaration]
+   gets(n);
+   ^
+../codeTwo.c:20:3: error: too few arguments to function ‘MPI_Recv’
+   MPI_Recv(&n, 1, MPI_INT, 0, 0, MPI_COMM_WORLD);
+   ^
+In file included from ../codeTwo.c:1:0:
+subdir.mk:18: recipe for target 'codeTwo.o' failed
+/usr/include/mpich/mpi.h:918:5: note: declared here
+ int MPI_Recv(void *buf, int count, MPI_Datatype datatype, int source, int tag,
+     ^
+../codeTwo.c:7:13: warning: unused variable ‘status’ [-Wunused-variable]
+  MPI_Status status;
+             ^
+make: *** [codeTwo.o] Error 1
+20:47:55 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:47:55 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c: In function ‘main’:
+../codeTwo.c:14:3: warning: implicit declaration of function ‘gets’ [-Wimplicit-function-declaration]
+   gets(n);
+   ^
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+./codeTwo.o: In function `main':
+/home/student/Desktop/C42/PP/lab1/two/Debug/../codeTwo.c:14: warning: the `gets' function is dangerous and should not be used.
+Finished building target: two
+ 
+20:49:22 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:49:23 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+../codeTwo.c: In function ‘main’:
+../codeTwo.c:14:3: warning: implicit declaration of function ‘gets’ [-Wimplicit-function-declaration]
+   gets(n);
+   ^
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+./codeTwo.o: In function `main':
+/home/student/Desktop/C42/PP/lab1/two/Debug/../codeTwo.c:14: warning: the `gets' function is dangerous and should not be used.
+Finished building target: two
+ 
+20:49:45 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:49:45 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+20:50:39 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:50:39 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+20:52:00 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:52:00 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+20:53:05 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:53:05 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+20:53:43 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+20:53:43 **** Incremental Build of configuration Debug for project two ****
+make all 
+Building file: ../codeTwo.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeTwo.d" -MT"codeTwo.d" -o "codeTwo.o" "../codeTwo.c"
+Finished building: ../codeTwo.c
+ 
+Building target: two
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "two"  ./codeTwo.o   -lmpi
+Finished building target: two
+ 
+21:07:26 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:07:27 **** Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:31:10: warning: too many arguments for format [-Wformat-extra-args]
+   printf("The sum of the array is: &d\n", sum1 + sum2);
+          ^
+../codeThree.c:43:2: warning: implicit declaration of function ‘MPI_Finaize’ [-Wimplicit-function-declaration]
+  MPI_Finaize();
+  ^
+../codeThree.c:8:10: warning: unused variable ‘t2’ [-Wunused-variable]
+  int t1, t2, n;
+          ^
+../codeThree.c:8:6: warning: unused variable ‘t1’ [-Wunused-variable]
+  int t1, t2, n;
+      ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+./codeThree.o: In function `main':
+/home/student/Desktop/C42/PP/lab1/three/Debug/../codeThree.c:43: undefined reference to `MPI_Finaize'
+makefile:29: recipe for target 'three' failed
+collect2: error: ld returned 1 exit status
+make: *** [three] Error 1
+21:07:27 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:07:39 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:07:40 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:31:10: warning: too many arguments for format [-Wformat-extra-args]
+   printf("The sum of the array is: &d\n", sum1 + sum2);
+          ^
+../codeThree.c:8:10: warning: unused variable ‘t2’ [-Wunused-variable]
+  int t1, t2, n;
+          ^
+../codeThree.c:8:6: warning: unused variable ‘t1’ [-Wunused-variable]
+  int t1, t2, n;
+      ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:07:40 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:08:33 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:08:33 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:8:10: warning: unused variable ‘t2’ [-Wunused-variable]
+  int t1, t2, n;
+          ^
+../codeThree.c:8:6: warning: unused variable ‘t1’ [-Wunused-variable]
+  int t1, t2, n;
+      ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:08:34 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:08:56 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:08:56 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:8:10: warning: unused variable ‘t2’ [-Wunused-variable]
+  int t1, t2, n;
+          ^
+../codeThree.c:8:6: warning: unused variable ‘t1’ [-Wunused-variable]
+  int t1, t2, n;
+      ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:08:57 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:29 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:29 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:31:10: warning: format ‘%f’ expects argument of type ‘double’, but argument 3 has type ‘int’ [-Wformat=]
+   printf("Time taken by process %d is: %1.2f\n", rank, t2 - t1);
+          ^
+../codeThree.c:46:10: warning: format ‘%f’ expects argument of type ‘double’, but argument 3 has type ‘int’ [-Wformat=]
+   printf("Time taken by process %d is: %1.2f\n", rank, t2 - t1);
+          ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:11:29 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:12:45 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:12:45 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:9:2: error: expected identifier or ‘(’ before ‘int’
+  int n;
+  ^
+../codeThree.c:19:16: error: ‘n’ undeclared (first use in this function)
+   scanf("%d", &n);
+                ^
+../codeThree.c:19:16: note: each undeclared identifier is reported only once for each function it appears in
+subdir.mk:18: recipe for target 'codeThree.o' failed
+make: *** [codeThree.o] Error 1
+21:12:45 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:13:13 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:13:13 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:13:14 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:15:46 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:15:46 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+../codeThree.c: In function ‘main’:
+../codeThree.c:42:3: warning: ‘t2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+   printf("Time taken by process %d is: %1.2f\n", rank, t2 - t1);
+   ^
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:15:47 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:19:43 **** Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+Finished building: ../codeFour.c
+ 
+Building target: four
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "four"  ./codeFour.o   -lmpi
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+makefile:29: recipe for target 'four' failed
+collect2: error: ld returned 1 exit status
+make: *** [four] Error 1
+21:19:43 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:19:43 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:19:44 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:22:11 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building target: four
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "four"  ./codeFour.o   -lmpi
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+makefile:29: recipe for target 'four' failed
+make: *** [four] Error 1
+21:22:11 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:22:11 **** Incremental Build of configuration Debug for project three ****
+make all 
+Building file: ../codeThree.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeThree.d" -MT"codeThree.d" -o "codeThree.o" "../codeThree.c"
+Finished building: ../codeThree.c
+ 
+Building target: three
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "three"  ./codeThree.o   -lmpi
+Finished building target: three
+ 
+21:22:11 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:34:06 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:38:29: warning: passing argument 2 of ‘MPI_Buffer_detach’ makes pointer from integer without a cast [-Wint-conversion]
+  MPI_Buffer_detach(&buffer, 100);
+                             ^
+In file included from ../codeFour.c:1:0:
+/usr/include/mpich/mpi.h:928:5: note: expected ‘int *’ but argument is of type ‘int’
+ int MPI_Buffer_detach(void *buffer_addr, int *size);
+     ^
+Finished building: ../codeFour.c
+ 
+Building target: four
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "four"  ./codeFour.o   -lmpi
+Finished building target: four
+ 
+21:34:06 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:34:07 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:34:07 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:35:33 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:35:33 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:35:33 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:35:33 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:28 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:17:2: error: expected ‘,’ or ‘;’ before ‘MPI_Buffer_attach’
+  MPI_Buffer_attach(buffer, bufSize);
+  ^
+subdir.mk:18: recipe for target 'codeFour.o' failed
+make: *** [codeFour.o] Error 1
+21:37:28 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:28 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:29 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:49 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:17:2: error: expected ‘,’ or ‘;’ before ‘MPI_Buffer_attach’
+  MPI_Buffer_attach(buffer, bufSize);
+  ^
+subdir.mk:18: recipe for target 'codeFour.o' failed
+make: *** [codeFour.o] Error 1
+21:37:49 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:49 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:37:50 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:04 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:17:2: error: expected ‘,’ or ‘;’ before ‘MPI_Buffer_attach’
+  MPI_Buffer_attach(buffer, &bufSize);
+  ^
+subdir.mk:18: recipe for target 'codeFour.o' failed
+make: *** [codeFour.o] Error 1
+21:38:05 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:05 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:05 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:21 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:17:2: error: expected ‘,’ or ‘;’ before ‘MPI_Buffer_attach’
+  MPI_Buffer_attach(buffer, 100);
+  ^
+subdir.mk:18: recipe for target 'codeFour.o' failed
+make: *** [codeFour.o] Error 1
+21:38:22 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:22 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:22 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:24 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+../codeFour.c: In function ‘main’:
+../codeFour.c:17:2: error: expected ‘,’ or ‘;’ before ‘MPI_Buffer_attach’
+  MPI_Buffer_attach(buffer, 100);
+  ^
+subdir.mk:18: recipe for target 'codeFour.o' failed
+make: *** [codeFour.o] Error 1
+21:38:24 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:24 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:24 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:42 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+Finished building: ../codeFour.c
+ 
+Building target: four
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "four"  ./codeFour.o   -lmpi
+Finished building target: four
+ 
+21:38:42 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:42 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:38:42 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:39:05 **** Incremental Build of configuration Debug for project four ****
+make all 
+Building file: ../codeFour.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFour.d" -MT"codeFour.d" -o "codeFour.o" "../codeFour.c"
+Finished building: ../codeFour.c
+ 
+Building target: four
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "four"  ./codeFour.o   -lmpi
+Finished building target: four
+ 
+21:39:06 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:39:06 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:39:06 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:30 **** Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+../codeFive.c: In function ‘main’:
+../codeFive.c:22:3: error: too few arguments to function ‘MPI_Recv’
+   MPI_Recv(&n, 1, MPI_INT, size - 1, 0, MPI_COMM_WORLD);
+   ^
+In file included from ../codeFive.c:1:0:
+/usr/include/mpich/mpi.h:918:5: note: declared here
+ int MPI_Recv(void *buf, int count, MPI_Datatype datatype, int source, int tag,
+     ^
+../codeFive.c:25:3: error: too few arguments to function ‘MPI_Recv’
+   MPI_Recv(&n, 1, MPI_INT, (rank - 1), 0, MPI_COMM_WORLD);
+   ^
+In file included from ../codeFive.c:1:0:
+/usr/include/mpich/mpi.h:918:5: note: declared here
+subdir.mk:18: recipe for target 'codeFive.o' failed
+ int MPI_Recv(void *buf, int count, MPI_Datatype datatype, int source, int tag,
+     ^
+../codeFive.c:7:13: warning: unused variable ‘status’ [-Wunused-variable]
+  MPI_Status status;
+             ^
+make: *** [codeFive.o] Error 1
+21:47:30 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:31 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:31 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:31 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:48 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+../codeFive.c: In function ‘main’:
+../codeFive.c:22:3: error: too few arguments to function ‘MPI_Recv’
+   MPI_Recv(&n, 1, MPI_INT, size - 1, 0, MPI_COMM_WORLD);
+   ^
+In file included from ../codeFive.c:1:0:
+/usr/include/mpich/mpi.h:918:5: note: declared here
+ int MPI_Recv(void *buf, int count, MPI_Datatype datatype, int source, int tag,
+     ^
+../codeFive.c:25:3: error: too few arguments to function ‘MPI_Recv’
+   MPI_Recv(&n, 1, MPI_INT, (rank - 1), 0, MPI_COMM_WORLD);
+   ^
+In file included from ../codeFive.c:1:0:
+/usr/include/mpich/mpi.h:918:5: note: declared here
+subdir.mk:18: recipe for target 'codeFive.o' failed
+ int MPI_Recv(void *buf, int count, MPI_Datatype datatype, int source, int tag,
+     ^
+../codeFive.c:7:13: warning: unused variable ‘status’ [-Wunused-variable]
+  MPI_Status status;
+             ^
+make: *** [codeFive.o] Error 1
+21:47:48 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:48 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:49 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:49 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:48:22 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+Finished building: ../codeFive.c
+ 
+Building target: five
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "five"  ./codeFive.o   -lmpi
+Finished building target: five
+ 
+21:48:23 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:48:23 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:48:23 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:48:23 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:01 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+Finished building: ../codeFive.c
+ 
+Building target: five
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "five"  ./codeFive.o   -lmpi
+Finished building target: five
+ 
+21:49:01 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:01 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:02 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:02 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:15 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+Finished building: ../codeFive.c
+ 
+Building target: five
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "five"  ./codeFive.o   -lmpi
+Finished building target: five
+ 
+21:49:15 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:15 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:15 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:15 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:44 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+Finished building: ../codeFive.c
+ 
+Building target: five
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "five"  ./codeFive.o   -lmpi
+Finished building target: five
+ 
+21:49:44 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:44 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:44 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:49:45 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.
+21:50:19 **** Incremental Build of configuration Debug for project five ****
+make all 
+Building file: ../codeFive.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeFive.d" -MT"codeFive.d" -o "codeFive.o" "../codeFive.c"
+Finished building: ../codeFive.c
+ 
+Building target: five
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "five"  ./codeFive.o   -lmpi
+Finished building target: five
+ 
+21:50:19 **** Incremental Build of configuration Debug for project four ****
+make all 
+make: Nothing to be done for 'all'.
+21:50:19 **** Incremental Build of configuration Debug for project one ****
+make all 
+make: Nothing to be done for 'all'.
+21:50:20 **** Incremental Build of configuration Debug for project three ****
+make all 
+make: Nothing to be done for 'all'.
+21:50:20 **** Incremental Build of configuration Debug for project two ****
+make all 
+make: Nothing to be done for 'all'.

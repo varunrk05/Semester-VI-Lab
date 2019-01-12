@@ -31,8 +31,8 @@ int main(){
 		else
 			putc(ca, fb);
 		ca = getc(fa);
-	fclose(fa);
 }
+	fclose(fa);
 	fclose(fb);
 
 	return 0;

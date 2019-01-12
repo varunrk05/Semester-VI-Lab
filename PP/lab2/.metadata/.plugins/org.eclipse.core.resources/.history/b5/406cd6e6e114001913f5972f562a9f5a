@@ -1,0 +1,10 @@
+#include "mpi.h"
+#include <stdio.h>
+
+int main(int argc, char *argv[]){
+	int rank, size;
+
+	char *s;
+
+	MPI_Init(&argc, &argv);
+}

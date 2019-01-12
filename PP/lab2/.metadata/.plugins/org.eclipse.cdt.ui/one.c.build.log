@@ -1,0 +1,25 @@
+20:01:35 **** Incremental Build of configuration Debug for project one.c ****
+make all 
+Building file: ../codeOne.c
+Invoking: GCC C Compiler
+gcc -I/usr/include/mpich -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"codeOne.d" -MT"codeOne.d" -o "codeOne.o" "../codeOne.c"
+../codeOne.c: In function ‘main’:
+../codeOne.c:37:5: warning: statement with no effect [-Wunused-value]
+     toupper(s[i]);
+     ^
+../codeOne.c:39:5: warning: statement with no effect [-Wunused-value]
+     tolower(s[i]);
+     ^
+../codeOne.c:17:3: warning: ‘s’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+   scanf("%s", s);
+   ^
+Finished building: ../codeOne.c
+ 
+Building target: one.c
+Invoking: GCC C Linker
+gcc -L/usr/lib/mpich/lib -o "one.c"  ./codeOne.o   -lmpi
+Finished building target: one.c
+ 
+
+20:01:35 Build Finished (took 273ms)
+

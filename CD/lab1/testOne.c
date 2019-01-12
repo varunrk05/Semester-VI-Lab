@@ -1,10 +1,8 @@
-//This is a single line comment
-/******This is a multi
-line comment ****/
-
 #include <stdio.h>
+#define ten 10
 
 void main(){
- int a = 10, b = 10;
- cout << a + b;
+ #define two 2
+ int a =  10, b = 10;
+ printf("%d\n", a+b);
 }

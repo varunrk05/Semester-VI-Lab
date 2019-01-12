@@ -1,0 +1,26 @@
+#include "mpi.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[]){
+	int rank, size;
+	MPI_Status status;
+	int t1, t2, n;
+	int a[20];
+
+	MPI_Init(&argc, &argv);
+	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+	MPI_Comm_size(MPI_COMM_WORLD, &size);
+
+	if(rank == 0){
+		printf("Enter the size of the array:");
+		scanf("%d", &n);
+
+	}
+	else{
+
+	}
+
+	MPI_Finaize();
+	return 0;
+}

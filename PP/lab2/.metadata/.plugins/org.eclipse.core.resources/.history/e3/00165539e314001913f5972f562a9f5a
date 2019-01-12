@@ -1,0 +1,33 @@
+#include "mpi.h"
+#include <stdio.h>
+#include <string.h>
+
+int main(int argc, char *argv[]){
+	int rank, size;
+
+	char *s;
+
+	MPI_Init(&argc, &argv);
+	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+	MPI_Comm_size(MPI_COMM_WORLD, &size);
+
+	if(rank == 0){
+		printf("Enter word:");
+		scanf("%s", s);
+
+		printf("Word before sending: %s", s);
+
+		int len = sizeof(s);
+		len++;
+		MPI_Ssend(&len, 1, MPI_INT, 1, 0, MPI_COMM_WORLD);
+		MPI_Ssend(s, sizeof(s), MPI_CHAR, 1, 1, MPI_COMM_WORLD);
+		MPI_Recv(s, len, MPI_CHAR, 1, 2, MPI_COMM_WORLD);
+
+		printf("Word after receiving: %s", s);
+	}
+	else if(rank == 1){
+
+	}
+
+	return 0;
+}
